@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">🚀 QA Automation in "Magnit", but dream of becoming a Golang developer</h3>**
+ **<h3 align="left">🚀 QA Automation in "Magnit", but strive to become a Golang developer</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
